@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/shaur/Eight-bit_CPU/InstructionMemory.xst" -ofn "C:/Users/shaur/Eight-bit_CPU/InstructionMemory.syr" 
