@@ -1,0 +1,30 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/shaur/OneDrive - Umich/Eight-bit_CPU/processor_isim_beh.exe -prj C:/Users/shaur/OneDrive - Umich/Eight-bit_CPU/processor_beh.prj processor 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/shaur/OneDrive - Umich/Eight-bit_CPU/Register_File.vhd" into library work
+Parsing VHDL file "C:/Users/shaur/OneDrive - Umich/Eight-bit_CPU/ProgramCounter.vhd" into library work
+Parsing VHDL file "C:/Users/shaur/OneDrive - Umich/Eight-bit_CPU/InstructionMemory.vhd" into library work
+Parsing VHDL file "C:/Users/shaur/OneDrive - Umich/Eight-bit_CPU/CU.vhd" into library work
+Parsing VHDL file "C:/Users/shaur/OneDrive - Umich/Eight-bit_CPU/ALU.vhd" into library work
+Parsing VHDL file "C:/Users/shaur/OneDrive - Umich/Eight-bit_CPU/processor.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity ProgramCounter [programcounter_default]
+Compiling architecture behavioral of entity InstructionMemory [instructionmemory_default]
+Compiling architecture behavioral of entity CU [cu_default]
+Compiling architecture behavioral of entity Register_File [register_file_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity processor
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 16 VHDL Units
+Built simulation executable C:/Users/shaur/OneDrive - Umich/Eight-bit_CPU/processor_isim_beh.exe
+Fuse Memory Usage: 38200 KB
+Fuse CPU Usage: 859 ms

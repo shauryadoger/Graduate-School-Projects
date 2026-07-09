@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/shaur/OneDrive - Umich/Eight-bit_CPU/processor_isim_beh.exe" -prj "C:/Users/shaur/OneDrive - Umich/Eight-bit_CPU/processor_beh.prj" "processor" 
