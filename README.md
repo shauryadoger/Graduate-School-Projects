@@ -1,1 +1,1 @@
-This folder contains some experimental project assignments that I worked on utilizing .asm and C programming languages.
+This projects section contains folders of several coursework projects I worked on throughout Computer Engineering masters.
